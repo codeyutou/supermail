@@ -14,7 +14,7 @@ export default {
   name: "HomeSwiper",
   props:{
       banners:{
-          type:Array,
+         type:Array,
           default(){
               return[]
           }
